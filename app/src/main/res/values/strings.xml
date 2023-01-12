@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Image</string>
+    <string name="img">img</string>
+    <string name="choice_image">Choice Image</string>
+</resources>
