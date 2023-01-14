@@ -33,7 +33,8 @@
         android:layout_gravity="center"
         android:layout_marginTop="12dp"
         android:background="@drawable/image_style_border"
-        android:scaleType="centerCrop" />
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true" />
 
     <Button
         android:id="@+id/bt_choice_image"
